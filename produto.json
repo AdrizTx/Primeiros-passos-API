@@ -4,6 +4,11 @@
         "preco": 4999.99,
         "quantidade": 10,
         "disponivel": true,
-        "desconto": null
+        "desconto": null,
+        "jogo-complementar": {
+            "nome": "GTA VI",
+            "lancamento": 2026,
+            "desenvolvedores": "Rockstar Games"
+        }
     }
 }

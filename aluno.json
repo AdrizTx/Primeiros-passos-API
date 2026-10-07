@@ -4,6 +4,10 @@
         "idade": 16,
         "notas":   100,
         "aprovado": true,
-        "advertencias": null
+        "advertencias": null,
+        "matricula": {
+            "primeira-matricula": 2015,
+            "renovacao":null
+        }
     }
 }
