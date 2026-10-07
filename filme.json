@@ -1,0 +1,8 @@
+{
+    "filme":{
+        "titulo":"Vingadores Doomsday",
+        "ano": 2026,
+        "diretores":["Joe Russo","Anthony Russo"],
+        "generos":["Ação","Filme de super-herói", "Ficção cientifica", "Aventura"]
+    }
+}
