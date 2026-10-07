@@ -3,6 +3,11 @@
         "titulo":"Vingadores Doomsday",
         "ano": 2026,
         "diretores":["Joe Russo","Anthony Russo"],
-        "generos":["Ação","Filme de super-herói", "Ficção cientifica", "Aventura"]
+        "generos":["Ação","Filme de super-herói", "Ficção cientifica", "Aventura"],
+        "vilao-principal":{
+            "nome": "Doutor Destino",
+            "ator": "Robert Downey Junior",
+            "poderes": ["Intelecto genial", "Alta tenologia", "Feitiçaria avançada", "Roubo de energia", "Vontade indomável"]
+        }
     }
 }

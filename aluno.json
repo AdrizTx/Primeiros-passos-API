@@ -3,6 +3,7 @@
         "nome": "Lincoln Hideo",
         "idade": 16,
         "notas":   100,
-        "aprovado": true
+        "aprovado": true,
+        "advertencias": null
     }
 }

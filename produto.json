@@ -3,6 +3,7 @@
         "nome": "Playstation 5",
         "preco": 4999.99,
         "quantidade": 10,
-        "disponivel": true
+        "disponivel": true,
+        "desconto": null
     }
 }
